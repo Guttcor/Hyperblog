@@ -1,0 +1,7 @@
+body {
+    font-size: medium;
+    font-family: Verdana;
+    color: blue;
+    display: flex;
+    align-items: center;
+}
